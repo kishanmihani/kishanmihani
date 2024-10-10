@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @kishanmihani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kishanmihani/kishanmihani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Experienced Front-end Developer with 2 years of expertise in creating captivating UIs using HTML, CSS, JavaScript, React.js, and 
+React Native. Proven collaborator on cross-functional teams developing intuitive UI solutions. Skilled in design aesthetics and user 
+experience, delivering visually appealing and responsive web applications. Committed to leveraging advanced technologies for 
+high-quality results. 
